@@ -1,0 +1,18 @@
+#breathe {
+  color: black;
+}
+
+#modal {
+  display: none;
+  border: 3px solid black;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
